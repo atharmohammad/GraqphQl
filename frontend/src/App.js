@@ -1,5 +1,5 @@
 import {BrowserRouter,Switch,Route,Redirect} from 'react-router-dom';
-import AuthPage from "./Pages/AuthPage";
+import AuthPage from "./Pages/AuthPage/AuthPage";
 import BookingsPage from "./Pages/BookingPage"
 import Navbar from "./Components/Navbar/Navbar"
 import EventsPage from "./Pages/EventsPage"
